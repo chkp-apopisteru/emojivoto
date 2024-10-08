@@ -1,6 +1,6 @@
 # Emoji.voto
 
-__Forked with the sole purpose of storing container images in ghcr to overcome the images download restrictions.
+__Forked with the sole purpose of storing container images in ghcr to overcome the images download throttling.
 Plan to move to podman.__
 
 __Original readme follows:__
