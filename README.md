@@ -1,9 +1,11 @@
 # Emoji.voto
 
-Forked with the sole purpose of storing container images in ghcr to overcome the images download restrictions.
-Plan to move to podman.
+__Forked with the sole purpose of storing container images in ghcr to overcome the images download restrictions.
+Plan to move to podman.__
 
-Original readme follows:
+__Original readme follows:__
+
+---8<------8<------8<------8<------8<------8<------8<------8<------8<------8<------8<---
 
 A microservice application that allows users to vote for their favorite emoji,
 and tracks votes received on a leaderboard. May the best emoji win.
